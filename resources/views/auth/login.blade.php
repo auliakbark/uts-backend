@@ -27,7 +27,7 @@
       <div class="alert alert-info">
         <span>
             Login Admin : <br>
-            Email : admin123@gmail.com <br>
+            Email : admin@gmail.com <br>
             Password : 12345678
         </span>
       </div>
